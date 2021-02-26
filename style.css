@@ -1,0 +1,10 @@
+body {
+    background-image: url(./logo/logo.png);
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+p {
+    text-align: center ;
+    font-size:xx-large;
+    font-weight: bolder;
+}
