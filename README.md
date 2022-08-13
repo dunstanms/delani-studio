@@ -19,8 +19,8 @@ jQuery
 markdown
 #### BDD
 Behaviour	Input	Output
-Enter your name	Owiti Charles	
-Enter your Email Address	mikeycharlesm7@gmail.com	
+Enter your name	tony stack
+Enter your Email Address tonystark@gmail.com	
 Enter your message or comment	I would love to work with you	
 Press Submit		Pop up "Dear User, we have received your message. Thank you for reaching out to us.
 
